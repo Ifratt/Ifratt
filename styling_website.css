@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(24, 25, 38);
+}
+.p1{
+    color: rgb(245, 246, 242);
+    font-family:'Courier New', Courier, monospace ;
+    margin-top: 240px;
+    margin-left: 30px;
+    
+
+    
+}
+.p1-name{
+    color: rgb(175, 221, 196);
+    font-size: 40px;
+    font-family: serif;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.p2{
+    color: rgb(166, 173, 165);
+    margin-left: 30px;
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 17px;
+    margin-top: 0px;
+}
+.resume-button{
+    margin-left: 30px;
+    background-color: aquamarine;
+    height: 30px;
+    width:100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+.resume-button:hover{
+    cursor:pointer;
+    opacity: 0.5;
+    margin-left: 20px;
+    
+    
+}
+.projects{
+    color:rgb(251, 249, 249);
+    margin-top: 400px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family:serif;
+    font-weight: bold;
+}
+
+.education{
+    color:rgb(251, 249, 249);
+    margin-top: 400px;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    margin-left: 30px;
+
